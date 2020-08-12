@@ -7,7 +7,7 @@ This is the repository for the regular paper **ANIMC: A Soft Framework for Auto-
 Multi-view clustering has wide applications in many image processing scenarios. In these scenarios, original image data often contain missing instances and noises. In this repository, we implement a soft framework Auto-weighted Noisy and Incomplete Multi-view Clustering (ANIMC). 
 
 We conduct extensive experiments on four real-world datasets, and experimental results demonstrate its superior advantages over other state-of-the-art clustering algorithms.
-The codes of the compared methods  can be found on the authors’ claimed websites.
+The codes of the compared methods can be found on the authors’ claimed websites.
 
 
 ## File directory
@@ -48,12 +48,12 @@ MATLAB R2019b, Windows 10, 3.30 GHz E3-1225 CPU, and 64 GB main memory.
 
 ### Run ANIMC on incomplete multi-view data
 
-To reproduce the experiment results in the Section V-C of the paper, we need to run the scripts `main.m`.  
+To reproduce the experimental results in Section V-C of the paper, we need to run the scripts `main.m`.  
 
 
 ### Run ANIMC on noisy and incomplete multi-view data
 
-To reproduce the experiment results in the Section V-D of the paper, we need to run the scripts `main.m` after removing the comment (line 12 to line 20) in main.m.  
+To reproduce the experimental results in Section V-D of the paper, we need to run the scripts `main.m` after removing the comment (line 12 to line 20) in main.m.  
 
 
 ### Parameter tuning tips:
