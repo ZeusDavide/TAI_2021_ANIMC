@@ -1,6 +1,6 @@
-# TIP_2020_ANIMC
+# TAI_2021_ANIMC
 
-This is the repository for the regular paper **ANIMC: A Soft Framework for Auto-weighted Noisy and Incomplete Multi-view Clustering** submitted to **IEEE Transactions on Image Processing (TIP)**  by Xiang Fang, Yuchong Hu, Pan Zhou, Xiao-Yang Liu, and Dapeng Oliver Wu.
+This is the repository for the regular paper **ANIMC: A Soft Approach for Auto-weighted Noisy and Incomplete Multi-view Clustering** submitted to **IEEE Transactions on Artificial Intelligence (TAI)**  by Xiang Fang, Yuchong Hu, Pan Zhou, and Dapeng Oliver Wu.
 
 ## Noisy and Incomplete Multi-view Clustering
 
@@ -15,7 +15,7 @@ The codes of the compared methods can be found on the authors’ claimed website
 ```bash
 .
 ├── main.m				                                               # DEMO file of ANIMC
-├── ANIMC_TIP.m				                                           # core function of ANIMC
+├── ANIMC.m				                                           # core function of ANIMC
 ├── scene.mat				                                             # data mat files
 ├── splitDigitData.m			                                       # construction of incomplete multi-view data
 ├── init.m				                                               # variable initialization
@@ -37,9 +37,9 @@ MATLAB R2019b, Windows 10, 3.30 GHz E3-1225 CPU, and 64 GB main memory.
 
 1. Download this repository via git
     ```bash
-    git clone https://github.com/ZeusDavide/TIP_2020_ANIMC.git
+    git clone https://github.com/ZeusDavide/TAI_2021_ANIMC.git
     ```
-    or download the [zip file](https://github.com/ZeusDavide/TIP_2020_ANIMC/archive/master.zip) manually.
+    or download the [zip file](https://github.com/ZeusDavide/TAI_2021_ANIMC/archive/master.zip) manually.
     
 2. Get multi-view dataset: the BBCSport dataset from (http://mlg.ucd.ie/datasets/segment.html), the BUAA-VISNIR face dataset from paper "The buaa-visnir face database instructions", the Handwritten digit dataset from (http://archive.ics.uci.edu/ml/datasets.html), and the Outdoor Scene dataset from paper "Experiments on high resolution images towards outdoor scene classification". We only provide the Outdoor Scene dataset "scene.mat" in this repository as an example. For the other datasets in the experiments, please refer to the corresponding links or articles.
 
