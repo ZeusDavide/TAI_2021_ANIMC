@@ -1,6 +1,6 @@
 # TAI_2021_ANIMC
 
-This is the repository for the regular paper **ANIMC: A Soft Approach for Auto-weighted Noisy and Incomplete Multi-view Clustering** published in **IEEE Transactions on Artificial Intelligence (TAI)**  by Xiang Fang, Yuchong Hu, Pan Zhou, and Dapeng Oliver Wu.
+This is the repository for the regular paper **ANIMC: A Soft Approach for Auto-weighted Noisy and Incomplete Multi-view Clustering** published in **IEEE Transactions on Artificial Intelligence (TAI)**  by Xiang Fang, Yuchong Hu, Pan Zhou, and Dapeng Oliver Wu. Both [IEEE Version]() and [arXiv Version](https://arxiv.org/abs/2011.10331) are available.
 
 ## Noisy and Incomplete Multi-view Clustering
 
