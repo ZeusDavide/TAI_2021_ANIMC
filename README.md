@@ -61,7 +61,20 @@ To reproduce the experimental results in Section V-D of the paper, we need to ru
 - For $\theta$, we set $\theta=0.01$ (i.e., relatively small $\theta$) for $||\bm{V}||_{\theta}$ and $\theta=100$ (i.e., relatively large $\theta$) for $||\bm{A}^{(v)}||_{\theta}$.
 - In general, increasing iteration number `time` will promote the clustering performance and consume more time. We recommend its maximum value is 30.
 
+### Citation
+If you use this code please cite:
 
+```
+@ARTICLE{fangv3h2020,
+  author={Fang, Xiang and Hu, Yuchong and Zhou, Pan and Wu, Dapeng Oliver},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={V$^3$H: View Variation and View Heredity for Incomplete Multiview Clustering}, 
+  year={2020},
+  volume={1},
+  number={3},
+  pages={233-247},
+  doi={10.1109/TAI.2021.3052425}}
+```
 
 ## Contact
 
