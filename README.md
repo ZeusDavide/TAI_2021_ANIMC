@@ -68,12 +68,8 @@ If you use this code please cite:
 @ARTICLE{fangv3h2020,
   author={Fang, Xiang and Hu, Yuchong and Zhou, Pan and Wu, Dapeng Oliver},
   journal={IEEE Transactions on Artificial Intelligence}, 
-  title={V$^3$H: View Variation and View Heredity for Incomplete Multiview Clustering}, 
-  year={2020},
-  volume={1},
-  number={3},
-  pages={233-247},
-  doi={10.1109/TAI.2021.3052425}}
+  title={ANIMC: A Soft Approach for Auto-weighted Noisy and Incomplete Multi-view Clustering}, 
+  year={2021}}
 ```
 
 ## Contact
