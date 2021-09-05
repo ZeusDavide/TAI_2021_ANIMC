@@ -65,7 +65,7 @@ To reproduce the experimental results in Section V-D of the paper, we need to ru
 If you use this code please cite:
 
 ```
-@ARTICLE{fangv3h2020,
+@ARTICLE{fang2021animc,
   author={Fang, Xiang and Hu, Yuchong and Zhou, Pan and Wu, Dapeng Oliver},
   journal={IEEE Transactions on Artificial Intelligence}, 
   title={ANIMC: A Soft Approach for Auto-weighted Noisy and Incomplete Multi-view Clustering}, 
